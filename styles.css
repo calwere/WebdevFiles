@@ -1,0 +1,47 @@
+table, td, th{
+    border: 2px solid blue;
+    padding-left: 15px;
+    margin-inside: 20px;
+    column-rule-style: inset;
+    column-rule-width: 2px;
+    text-align: justify;
+    border-collapse: collapse;
+}
+table{
+    width: 100%;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+th{
+    color: chartreuse;
+    font-size: 30px;
+}
+td{
+    color: indigo;
+}
+.cars{
+    color: white;
+    background: firebrick;
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+}
+.fruits{
+    color: blue;
+    background: darkgoldenrod;
+    border: 6px greenyellow;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+}
+.people {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border: 3px lawngreen;
+    background: blueviolet;
+}
